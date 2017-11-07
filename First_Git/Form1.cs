@@ -16,5 +16,11 @@ namespace First_Git
 		{
 			InitializeComponent();
 		}
+
+		private void button1_Click(object sender, EventArgs e)
+		{
+			label1.Visible = true;
+			label1.Text = "Welcome to Git.";
+		}
 	}
 }
