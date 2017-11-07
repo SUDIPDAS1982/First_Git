@@ -20,7 +20,7 @@ namespace First_Git
 		private void button1_Click(object sender, EventArgs e)
 		{
 			label1.Visible = true;
-			label1.Text = "Welcome to Git.";
+			label1.Text = "Welcome to Git era.";
 		}
 
 		private void button2_Click(object sender, EventArgs e)
